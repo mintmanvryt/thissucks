@@ -1,0 +1,4 @@
+repository "MintTag@MintTag@cloud"
+  path "/"
+    br "/main"
+    co "/main"
